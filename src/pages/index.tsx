@@ -12,10 +12,10 @@ export default function IndexPage() {
   const data_c = {
     title: "サイトカイン点滴",
     list: [{
-      img: "https://inews.gtimg.com/newsapp_bt/0/202207165715758183044/0",
+      img: "https://d.ifengimg.com/w794_h444_q90_webp/x0.ifengimg.com/res/2022/33C50E77DD4EB2AD6540A0237C797DBC0FA0EDAF_size942_w794_h444.png",
       txt: "info 1"
     }, {
-      img: "https://inews.gtimg.com/newsapp_bt/0/202207165716902390268/0",
+      img: "https://p7.itc.cn/q_70/images03/20220706/e83bac7d116341b1b39326be1f843019.jpeg",
       txt: "info 2"
     }, {
       img: "https://puui.qpic.cn/vpic_cover/e0043d7kedd/e0043d7kedd_hz.jpg/496",
@@ -53,7 +53,7 @@ export default function IndexPage() {
     title: '最新情报',
     list: [
       {
-        img: 'http://inews.gtimg.com/newsapp_bt/0/15071857454/641',
+        img: 'https://d.ifengimg.com/w794_h444_q90_webp/x0.ifengimg.com/res/2022/33C50E77DD4EB2AD6540A0237C797DBC0FA0EDAF_size942_w794_h444.png',
         title: '杜兰特',
         label: '2022-07-06 00:13',
         cnt: '篮网正在寻求NBA历史上最大的交易回报之一。名记斯坦恩也表示，除非得到一个包括英格拉姆或者斯科蒂-巴恩斯等年轻球星的大报价，篮网更倾向于留下杜兰特。他们肯定要拿到比之前马刺、爵士更多的回报。',
@@ -67,7 +67,7 @@ export default function IndexPage() {
         list: [],
       },
       {
-        img: 'http://inews.gtimg.com/newsapp_bt/0/15067014764/641',
+        img: 'https://d.ifengimg.com/w794_h444_q90_webp/x0.ifengimg.com/res/2022/33C50E77DD4EB2AD6540A0237C797DBC0FA0EDAF_size942_w794_h444.png',
         title: '杜欧交易',
         label: '2022-07-06 00:13',
         cnt: '北京时间7月5日，NBA名记Brandon Robinson在节目上揭秘了杜兰特、欧文交易的6大内幕，最重要的一点在于猛龙已经松口，愿意送出最佳新秀斯科蒂-巴恩斯。',
@@ -81,14 +81,14 @@ export default function IndexPage() {
         list: [],
       },
       {
-        img: 'https://inews.gtimg.com/newsapp_bt/0/15072514326/1000',
+        img: 'https://d.ifengimg.com/w794_h444_q90_webp/x0.ifengimg.com/res/2022/33C50E77DD4EB2AD6540A0237C797DBC0FA0EDAF_size942_w794_h444.png',
         title: '杜兰特',
         label: '2022-07-06 00:13',
         cnt: '自由市场开启后杜兰特提出交易申请，一心想要离开篮网。作为蔡崇信而言过去的几个赛季他付出了太多的人力财力，现在杜兰特想要离队，那么篮网必然会争取利益最大化。，但是戈贝尔的交易成功必然会进一步刺激篮网管理层。据悉他们希望用杜兰特换取到全明星球员以及选秀权，只是截止到目前虽然有多支球队对得到杜兰特抱有浓厚兴趣但是并没有实质性的进展。寻求交易陷入停滞这让杜兰特很是尴尬。',
         list: [],
       },
       {
-        img: 'https://inews.gtimg.com/newsapp_bt/0/15016136499/1000',
+        img: 'https://new.inews.gtimg.com/tnews/33f33610/1187/33f33610-1187-4e81-8b0d-793ef7a09f28.jpg',
         title: '勇士',
         label: '2022-07-07',
         cnt: '2022年总冠军归属终于尘埃落定，勇士这三年的故事早已不必多言。他们曾在巅峰，也经历过低谷，哪怕是他们始终坚持自己的道路，在今年艰难地找回了曾经的自己，他们也从未被看好。直到总决赛第四场，在被外界质疑的情况下，那个只会投篮的伪巨星率先证明了自己。随后，那个怠惰懒散的掺水状元，那个瘦弱鲁莽的最差新秀，那个沉迷博客无限退化的矮子恶霸，那个凭借工龄霸占球权的浪投射手，都亲自把这些贴在他们身上充满偏见的标签撕去了。这样的故事无论是在哪个领域，都是岁月史书上最浓墨重彩的一篇。',
@@ -143,15 +143,15 @@ export default function IndexPage() {
       title: "热议NBA",
       cnt: "上赛季萎靡的前联盟大小王，今年谁能重振雄风？",
       btn: "跳转",
-      link: "information",
+      link: "/information",
     }, {
-      img: "http://inews.gtimg.com/newsapp_bt/0/15073791474/641",
+      img: "https://d.ifengimg.com/w794_h444_q90_webp/x0.ifengimg.com/res/2022/33C50E77DD4EB2AD6540A0237C797DBC0FA0EDAF_size942_w794_h444.png",
       title: "热议NBA",
       cnt: "湖人队记曝欧文进展：合同到期后来湖人 其他球队交易只能“租借”一年",
       btn: "跳转",
-      link: "information",
+      link: "/information",
     }, {
-      img: "https://inews.gtimg.com/newsapp_bt/0/15072963224/641",
+      img: "https://img.nba.cn/image/nms/cms/36c7c3c7-7b92-42f4-be79-f17daec1335f/%E5%B0%81%E9%9D%A2.jpg?auth_key=1657347600-1657347600-0-58a40fc4403c2fbba3a472d71ed8487e&cdn_provider=110&image_process=resize,w_660&ver=0.1.6",
       title: "热议NBA",
       cnt: "突发！联盟紧急叫停！4年1.04亿就这样没了？尼克斯懵圈了",
       btn: "跳转",
